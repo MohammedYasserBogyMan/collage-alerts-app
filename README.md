@@ -100,14 +100,7 @@ This application addresses the critical need for timely communication in educati
 
 ## 📱 Screenshots
 
-> 📝 **Note**: Add screenshots of your app here to showcase the user interface and key features.
 
-```
-[Login Screen]     [Home Screen]      [Alert Details]    [Admin Panel]
-     📱               📱                 📱                📱
-```
-
-_Screenshots coming soon - App currently in development_
 
 ---
 
